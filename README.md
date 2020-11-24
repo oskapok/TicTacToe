@@ -1,8 +1,6 @@
 # TicTacToe
  DMU IMAT1907 Introduction to C++ Assassment
 
-# Tool Britannia
-
 <img src = "/img/tictactoe.png" width="400"></img>
 
 De Montfort University IMAT1907 Introduction to C++ Assassment
