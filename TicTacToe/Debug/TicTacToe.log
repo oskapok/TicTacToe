@@ -1,0 +1,3 @@
+﻿  TicTacToe.cpp
+d:\projects\programming\tictactoe\tictactoe\tictactoe.cpp(52): warning C4101: 'fdwMode': unreferenced local variable
+  TicTacToe.vcxproj -> D:\Projects\PROGRAMMING\TicTacToe\Debug\TicTacToe.exe
